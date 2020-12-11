@@ -116,18 +116,23 @@ def find_visible_seats(data, row, col):
         # start at current seat
         try_seat_row = row
         try_seat_col = col
-        try_seat = '.'
+        try_seat = '.' #Default to floor in case we don't find any seat at all
 
+        #Loop over transformation until we find a seat
         while not seat_found:
+            
             try_seat_row += t[0]
             try_seat_col += t[1]
 
-            row_in_range = try_seat_row >= 0 and try_seat_row < len(data)
+            # Check location we are trying actually exists
+            row_in_range = try_seat_row >= 0 and try_seat_row < len(data) 
             col_in_range = try_seat_col >= 0 and try_seat_col < len(data[0])
 
+            #If it does, find the value
             if row_in_range and col_in_range:
                 try_seat = data[try_seat_row][try_seat_col]
 
+                # If not floor, set Seat found to True
                 if try_seat != '.':
                     # print(f'Seat Found at row: {try_seat_row}, col {try_seat_col}')
                     seat_found = True
