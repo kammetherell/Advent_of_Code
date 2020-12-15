@@ -4,7 +4,6 @@ with open("./Day14/input.txt") as f:
 inputs = [x.strip('\n') for x in inputs]
 
 def mask_num(mask, num):
-    mask_len = len(mask)
     num_bin = str(format(num, f'#038b')[2:])
 
     result_masked = ''
