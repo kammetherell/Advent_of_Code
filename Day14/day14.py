@@ -61,8 +61,6 @@ def get_mem_options(mask, num):
         
     return mem_opts
 
-#print(get_mem_options('000000000000000000000000000000X1001X', 42))
-
 def day14_2():
     mem = {}
     mask = ''
