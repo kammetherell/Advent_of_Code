@@ -28,7 +28,7 @@ def estimate_time_remaining(start, num_iters, curr_iter):
     total_time = time_per_iter * num_iters
     time_remaining = total_time - time_elapsed
 
-    print(f'\rTime Remaining: {time_remaining}\r', end='', flush=True)
+    print(f'\rEstimated Time Remaining: {time_remaining}\r', end='', flush=True)
 
 def play_game(start_list, number):
     spoken = []
