@@ -33,4 +33,4 @@ for i in inputs:
     elif i['dir']=='up':
         aim-=i['quant']
 
-print(f'x:{x}; depth:{depth};aim:{aim}; result:{x*depth}')
+print(f'x:{x}; depth:{depth}; aim:{aim}; result:{x*depth}')
