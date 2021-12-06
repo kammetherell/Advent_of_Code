@@ -47,8 +47,6 @@ for v in summary.values():
     gamma = gamma + str(v['most'])
     epsilon = epsilon + str(v['least'])
 
-
-
 print(f'Gamma: {gamma} - {int(gamma, 2)}; Epsilon: {epsilon} - {int(epsilon, 2)}; RESULT = {int(gamma, 2)*int(epsilon, 2)}')
 
 
