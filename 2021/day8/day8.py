@@ -141,8 +141,6 @@ def decode(input):
 
 sum = 0
 for idx, i in enumerate(inputs):
-    print(f'Input {idx}', end='\r')
     sum = sum + int(decode(i))
 
-print('#######')
 print(sum)
