@@ -146,5 +146,3 @@ for idx, i in enumerate(inputs):
 
 print('#######')
 print(sum)
-
-# for i in inputs
