@@ -62,6 +62,7 @@ inputs = aoc_helpers.load_data('actual.txt')
 #                   []
 #               ]
 
+
 chunk_open = [
     '(',
     '[',
