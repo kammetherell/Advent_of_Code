@@ -1,0 +1,76 @@
+New Input added: 1
+Loop:0
+Opcode: 2; Pos Modes: [1, 1, 0]
+Parameters: [34463338, 34463338, 63]
+1187721666102244 saved to position 63
+Loop:1
+Opcode: 7; Pos Modes: [0, 1, 0]
+Parameters: [1187721666102244, 34463338, 63]
+0 saved to position 63
+Loop:2
+Opcode: 5; Pos Modes: [0, 1, 0]
+Parameters: [0, 53]
+Loop:3
+Opcode: 2; Pos Modes: [1, 1, 0]
+Parameters: [3, 1, 1000]
+3 saved to position 1000
+Loop:4
+Opcode: 9; Pos Modes: [1, 0, 0]
+Parameters: [988]
+New Relative Base: 988
+Loop:5
+Opcode: 9; Pos Modes: [2, 0, 0]
+Relative mode test (Base: 988 input: 12
+Parameters: [3]
+New Relative Base: 991
+Loop:6
+Opcode: 9; Pos Modes: [0, 0, 0]
+Parameters: [3]
+New Relative Base: 994
+Loop:7
+Opcode: 9; Pos Modes: [2, 0, 0]
+Relative mode test (Base: 994 input: 6
+Parameters: [3]
+New Relative Base: 997
+Loop:8
+Opcode: 9; Pos Modes: [2, 0, 0]
+Relative mode test (Base: 997 input: 3
+Parameters: [3]
+New Relative Base: 1000
+Loop:9
+Opcode: 3; Pos Modes: [2, 0, 0]
+Relative mode test (Base: 1000 input: 0
+Parameters: 3
+Reading input from stored inputs: deque([1])
+1 saved to position 3
+Loop:10
+Opcode: 8; Pos Modes: [0, 1, 0]
+Parameters: [3, 1, 63]
+0 saved to position 63
+Loop:11
+Opcode: 5; Pos Modes: [0, 1, 0]
+Parameters: [0, 65]
+Loop:12
+Opcode: 8; Pos Modes: [0, 1, 0]
+Parameters: [3, 2, 63]
+0 saved to position 63
+Loop:13
+Opcode: 5; Pos Modes: [0, 1, 0]
+Parameters: [0, 904]
+Loop:14
+Opcode: 8; Pos Modes: [0, 1, 0]
+Parameters: [3, 0, 63]
+0 saved to position 63
+Loop:15
+Opcode: 5; Pos Modes: [0, 1, 0]
+Parameters: [0, 58]
+Loop:16
+Opcode: 4; Pos Modes: [0, 0, 0]
+output: 203
+Loop:17
+Opcode: 4; Pos Modes: [1, 0, 0]
+output: 0
+Loop:18
+Opcode: 99; Pos Modes: [0, 0, 0]
+**FINISHED** Output: 1102
+
