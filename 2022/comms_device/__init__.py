@@ -29,29 +29,3 @@ class Elf_Handheld:
     def get_msg_marker(self):
         return self.get_marker(14)
 
-    def load_file_system(self, output):
-        dir = {
-            'files': [],
-            'path' : []
-        }
-
-        cwd = dir
-
-        for line in output:
-            #return to home
-            if '$ cd /' in line:
-                cwd = dir
-            elif '$ cd ..' in line:
-                None
-            elif '$ cd' in line:
-                cwd = cwd[line[5:]]
-            elif '$ ls' in line:
-                None
-            elif 'dir ' in line:
-                path = cwd['path'] + [line[4:]]
-                cwd[line[4:]] = {
-                    'files':[],
-                    'path': path
-                }
-            else:
-                cwd['files'].append(tuple(line.split(' ')))
