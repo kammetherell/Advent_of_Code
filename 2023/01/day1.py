@@ -37,8 +37,6 @@ word_num_map = {
     'nine':'ni9e'
 }
 
-
-
 def part_2(input):
     for idx,line in enumerate(input):
         for key in word_num_map.keys():
