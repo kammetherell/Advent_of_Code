@@ -33,8 +33,9 @@ def find_parts(input):
             )
             part_dict['range_col'] = range_col
 
-            valid = check_valid_part(part_dict, input)
+            valid, gear_coord = check_valid_part(part_dict, input)
             part_dict['valid'] = valid
+            part_dict['gear_coord'] = gear_coord
 
             parts.append(part_dict)
 
@@ -43,6 +44,7 @@ def find_parts(input):
 def check_valid_part(part, input):
     valid = False
     complete=False
+    gear_coord = None
     
     while not valid and not complete:
         for row in range(*part['range_row']):
@@ -54,12 +56,16 @@ def check_valid_part(part, input):
 
                 if m:
                     valid = True
+                    if m.group() == '*':
+                        gear_coord = (row,col)
 
         complete = True
 
-    return valid
+    return valid, gear_coord
 
 parts = find_parts(actual)
+
+#PART 1
 parts = [part for part in parts if part['valid']]
 
 sum_of_parts = sum(
@@ -67,3 +73,21 @@ sum_of_parts = sum(
 )
 
 print('Part 1: ', sum_of_parts)
+
+#PART 2
+gear_opts = [part for part in parts if part['gear_coord'] is not None]
+
+sum_gear_ratio = 0
+
+for idx, gear in enumerate(gear_opts):
+    matches = [
+        g for g in gear_opts[idx+1:] 
+        if g['gear_coord']==gear['gear_coord']
+        ]
+    
+    if len(matches)>0:
+        gear_ratio = gear['val'] * matches[0]['val']
+
+        sum_gear_ratio+=gear_ratio
+
+print('Part 2: ', sum_gear_ratio)
