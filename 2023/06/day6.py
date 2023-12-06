@@ -28,6 +28,8 @@ races_1 = process_input(actual)
 input_2 = [i.replace(' ', '') for i in actual]
 races_2 = process_input(input_2)
 
+#### ORIGNAL BRUTE FORCE ####
+
 print('BRUTE FORCE')
 
 def run_race(races):
