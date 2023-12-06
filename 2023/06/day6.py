@@ -24,6 +24,12 @@ def process_input(input):
 
     return races
 
+races_1 = process_input(actual)
+input_2 = [i.replace(' ', '') for i in actual]
+races_2 = process_input(input_2)
+
+print('BRUTE FORCE')
+
 def run_race(races):
     win_counts = []
 
@@ -40,11 +46,6 @@ def run_race(races):
     
     return math.prod(win_counts)
 
-races_1 = process_input(actual)
-input_2 = [i.replace(' ', '') for i in actual]
-races_2 = process_input(input_2)
-
-print('ORIGINAL')
 #PART 1
 start = datetime.datetime.now()
 output = run_race(races_1)
