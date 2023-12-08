@@ -1,0 +1,1000 @@
+237QA: High Card
+23K64: High Card
+24Q65: High Card
+26479: High Card
+273TA: High Card
+27654: High Card
+29384: High Card
+2T87K: High Card
+2KQ5T: High Card
+2A5KT: High Card
+2A6Q4: High Card
+32Q79: High Card
+352T8: High Card
+352QA: High Card
+35QT7: High Card
+3652A: High Card
+3759Q: High Card
+384K9: High Card
+395A8: High Card
+3Q6T7: High Card
+3K265: High Card
+3K76A: High Card
+3AT24: High Card
+43TK8: High Card
+43AKQ: High Card
+45283: High Card
+45QK8: High Card
+4869T: High Card
+48QA6: High Card
+4953T: High Card
+4958T: High Card
+4T26K: High Card
+4Q2A7: High Card
+4QKAT: High Card
+4QAK6: High Card
+4KQ78: High Card
+4AQ3T: High Card
+54367: High Card
+5682Q: High Card
+57K36: High Card
+5T243: High Card
+5TA98: High Card
+5Q298: High Card
+5QT64: High Card
+5QK37: High Card
+5K4TA: High Card
+5K83A: High Card
+5K972: High Card
+5A6K4: High Card
+62T58: High Card
+632T4: High Card
+645Q8: High Card
+68379: High Card
+68AK9: High Card
+6T2K8: High Card
+6Q95A: High Card
+6K2Q3: High Card
+6AT2Q: High Card
+74835: High Card
+75Q83: High Card
+76382: High Card
+76A24: High Card
+79654: High Card
+7T46A: High Card
+7Q6AT: High Card
+7QT8A: High Card
+7A592: High Card
+829QA: High Card
+834Q2: High Card
+83QT2: High Card
+84Q26: High Card
+85K96: High Card
+86Q97: High Card
+8Q649: High Card
+8K23A: High Card
+8K3QT: High Card
+924A3: High Card
+93752: High Card
+9762T: High Card
+9763T: High Card
+9Q532: High Card
+9Q7A2: High Card
+9K85T: High Card
+T3724: High Card
+T67K3: High Card
+T6K84: High Card
+T76KQ: High Card
+T8365: High Card
+Q398T: High Card
+Q452T: High Card
+Q589K: High Card
+Q5T82: High Card
+Q789A: High Card
+QK637: High Card
+QAK48: High Card
+K324A: High Card
+K5Q26: High Card
+K5Q4T: High Card
+K5A96: High Card
+K82Q9: High Card
+K85A9: High Card
+K87T9: High Card
+KT56A: High Card
+KQ78T: High Card
+KQ7T2: High Card
+KQA2T: High Card
+KA3T7: High Card
+A2758: High Card
+A2947: High Card
+A38T4: High Card
+A3Q6K: High Card
+A4352: High Card
+A56T2: High Card
+A56T9: High Card
+A587K: High Card
+A67Q2: High Card
+A748K: High Card
+A8435: High Card
+A896T: High Card
+AQ456: High Card
+AQ5K3: High Card
+AK3Q9: High Card
+J2KQ8: One Pair
+J365A: One Pair
+J38A6: One Pair
+J52A8: One Pair
+J58Q9: One Pair
+J5K27: One Pair
+J5A2Q: One Pair
+J6QT9: One Pair
+J834T: One Pair
+J8A34: One Pair
+J935A: One Pair
+JT4Q8: One Pair
+JQ2K7: One Pair
+JQT39: One Pair
+JK56T: One Pair
+JK7T3: One Pair
+JKA37: One Pair
+JAQK4: One Pair
+2363K: One Pair
+23K93: One Pair
+24263: One Pair
+255Q4: One Pair
+26237: One Pair
+262A8: One Pair
+2798J: One Pair
+28J3T: One Pair
+29253: One Pair
+293JQ: One Pair
+29Q89: One Pair
+2K6KT: One Pair
+2A78A: One Pair
+3J26Q: One Pair
+3J975: One Pair
+32646: One Pair
+3348K: One Pair
+33QK6: One Pair
+33KTQ: One Pair
+34J92: One Pair
+344K5: One Pair
+3477A: One Pair
+34983: One Pair
+35QK3: One Pair
+36734: One Pair
+3674J: One Pair
+36TJ7: One Pair
+36TQJ: One Pair
+3877Q: One Pair
+388QK: One Pair
+38K3Q: One Pair
+39368: One Pair
+394J6: One Pair
+39947: One Pair
+3Q67J: One Pair
+3Q7QK: One Pair
+3Q8KQ: One Pair
+3QKJ9: One Pair
+3A4J9: One Pair
+3A997: One Pair
+4JT75: One Pair
+42647: One Pair
+4274K: One Pair
+42A6J: One Pair
+44785: One Pair
+45T24: One Pair
+49QJ3: One Pair
+4T2J3: One Pair
+4TA4Q: One Pair
+4Q9Q3: One Pair
+4K228: One Pair
+4AJ89: One Pair
+4A7KJ: One Pair
+4A847: One Pair
+5J3T6: One Pair
+527JA: One Pair
+54795: One Pair
+5737K: One Pair
+58Q5T: One Pair
+59Q57: One Pair
+59K5A: One Pair
+6284J: One Pair
+63268: One Pair
+635K3: One Pair
+638JT: One Pair
+64KTJ: One Pair
+65J98: One Pair
+6774Q: One Pair
+68KQ6: One Pair
+69TQ9: One Pair
+6Q9TT: One Pair
+6QAJK: One Pair
+6K63T: One Pair
+6KQ64: One Pair
+6A4AQ: One Pair
+6A922: One Pair
+7J2Q3: One Pair
+7JQ64: One Pair
+724TJ: One Pair
+725AA: One Pair
+72884: One Pair
+7378T: One Pair
+7397K: One Pair
+73QJT: One Pair
+73A75: One Pair
+75A66: One Pair
+7736Q: One Pair
+78796: One Pair
+79484: One Pair
+7Q662: One Pair
+7Q855: One Pair
+7Q868: One Pair
+7A8J9: One Pair
+7AK88: One Pair
+8J793: One Pair
+82386: One Pair
+829J3: One Pair
+82AQA: One Pair
+84258: One Pair
+85J6T: One Pair
+86J3Q: One Pair
+87JAK: One Pair
+872T8: One Pair
+87355: One Pair
+88Q4K: One Pair
+897A7: One Pair
+8TK83: One Pair
+8K983: One Pair
+8A928: One Pair
+9J46T: One Pair
+9J8T5: One Pair
+9JA54: One Pair
+923QQ: One Pair
+92T98: One Pair
+93A66: One Pair
+942T9: One Pair
+95A3A: One Pair
+975J4: One Pair
+985J3: One Pair
+987TT: One Pair
+98T87: One Pair
+98A8Q: One Pair
+9T233: One Pair
+9QJA5: One Pair
+9QQ82: One Pair
+9QQ8K: One Pair
+T8252: One Pair
+T8857: One Pair
+T8Q3T: One Pair
+TT5QA: One Pair
+TT973: One Pair
+TK38J: One Pair
+TKAJQ: One Pair
+TAJ48: One Pair
+TA6JQ: One Pair
+Q2Q34: One Pair
+Q4TQK: One Pair
+Q6T96: One Pair
+Q7759: One Pair
+Q77A9: One Pair
+Q84KK: One Pair
+Q9JA8: One Pair
+QT93T: One Pair
+QA884: One Pair
+KJ9T4: One Pair
+K2A99: One Pair
+K344Q: One Pair
+K3Q2Q: One Pair
+K4J96: One Pair
+K4JQT: One Pair
+K4JA6: One Pair
+K56AJ: One Pair
+K62JA: One Pair
+K86TT: One Pair
+K965K: One Pair
+K96K4: One Pair
+K9774: One Pair
+KA69J: One Pair
+KA848: One Pair
+AJ4T7: One Pair
+A2TT7: One Pair
+A2KJT: One Pair
+A35J8: One Pair
+A354J: One Pair
+A3T77: One Pair
+A4542: One Pair
+A469A: One Pair
+A475A: One Pair
+A4K9K: One Pair
+A6388: One Pair
+A63Q3: One Pair
+A6A93: One Pair
+A738J: One Pair
+A86QA: One Pair
+ATJ63: One Pair
+ATTK2: One Pair
+AQT4T: One Pair
+AA769: One Pair
+AATQ6: One Pair
+AAK4T: One Pair
+22466: Two Pair
+22474: Two Pair
+224Q4: Two Pair
+28825: Two Pair
+28855: Two Pair
+28872: Two Pair
+2T33T: Two Pair
+2K2KA: Two Pair
+2KQKQ: Two Pair
+2A32A: Two Pair
+2A33A: Two Pair
+33686: Two Pair
+35K3K: Two Pair
+36326: Two Pair
+37535: Two Pair
+38K38: Two Pair
+3Q223: Two Pair
+3A737: Two Pair
+424KK: Two Pair
+4466T: Two Pair
+44788: Two Pair
+448KK: Two Pair
+45433: Two Pair
+46556: Two Pair
+47949: Two Pair
+494Q9: Two Pair
+49559: Two Pair
+49934: Two Pair
+49K94: Two Pair
+4Q54Q: Two Pair
+54354: Two Pair
+545QQ: Two Pair
+55377: Two Pair
+55877: Two Pair
+55A22: Two Pair
+5T58T: Two Pair
+5QA5A: Two Pair
+63655: Two Pair
+64774: Two Pair
+65454: Two Pair
+65A56: Two Pair
+6776T: Two Pair
+68KK6: Two Pair
+6TT55: Two Pair
+6KK6A: Two Pair
+6A67A: Two Pair
+73322: Two Pair
+744A7: Two Pair
+77828: Two Pair
+778TT: Two Pair
+77QTT: Two Pair
+7Q6Q7: Two Pair
+7K7QK: Two Pair
+7A7TT: Two Pair
+82T28: Two Pair
+84468: Two Pair
+85835: Two Pair
+8TATA: Two Pair
+8K3K3: Two Pair
+92Q29: Two Pair
+9393K: Two Pair
+94422: Two Pair
+95229: Two Pair
+95925: Two Pair
+9955K: Two Pair
+99T8T: Two Pair
+99TKT: Two Pair
+9TT9Q: Two Pair
+9QQ96: Two Pair
+T223T: Two Pair
+T262T: Two Pair
+T663T: Two Pair
+T9T49: Two Pair
+TT377: Two Pair
+TT66Q: Two Pair
+TT6K6: Two Pair
+TT788: Two Pair
+TTK44: Two Pair
+TTKK2: Two Pair
+TTKK7: Two Pair
+TTAA4: Two Pair
+TK6KT: Two Pair
+TKT22: Two Pair
+Q3QT3: Two Pair
+Q55QK: Two Pair
+QTTKQ: Two Pair
+QQ5T5: Two Pair
+QQAA8: Two Pair
+QA6QA: Two Pair
+QAQ3A: Two Pair
+K33AK: Two Pair
+K343K: Two Pair
+K3K39: Two Pair
+K6AA6: Two Pair
+K8K86: Two Pair
+K92K9: Two Pair
+KT2K2: Two Pair
+KT33T: Two Pair
+KT4TK: Two Pair
+KQKQ9: Two Pair
+KK828: Two Pair
+A252A: Two Pair
+A3A53: Two Pair
+A545A: Two Pair
+A8855: Two Pair
+A997A: Two Pair
+A9KAK: Two Pair
+A9AQQ: Two Pair
+AT9TA: Two Pair
+AQQA4: Two Pair
+AKAK2: Two Pair
+AA557: Two Pair
+AATKT: Two Pair
+AAK99: Two Pair
+J2TTQ: Three of a Kind
+J3424: Three of a Kind
+J5J72: Three of a Kind
+J5K66: Three of a Kind
+J6922: Three of a Kind
+J78J4: Three of a Kind
+J7995: Three of a Kind
+J7KQJ: Three of a Kind
+J9594: Three of a Kind
+J9737: Three of a Kind
+JT335: Three of a Kind
+JT6T2: Three of a Kind
+JQ3JA: Three of a Kind
+JQ99A: Three of a Kind
+JK5KT: Three of a Kind
+JA4QA: Three of a Kind
+JA8A9: Three of a Kind
+22J37: Three of a Kind
+22325: Three of a Kind
+22T82: Three of a Kind
+22Q24: Three of a Kind
+24J6J: Three of a Kind
+26669: Three of a Kind
+26T22: Three of a Kind
+27J7A: Three of a Kind
+272Q2: Three of a Kind
+28868: Three of a Kind
+2888Q: Three of a Kind
+2Q223: Three of a Kind
+2QQQ7: Three of a Kind
+3J436: Three of a Kind
+3J638: Three of a Kind
+3JK3Q: Three of a Kind
+33739: Three of a Kind
+33Q4J: Three of a Kind
+34JT3: Three of a Kind
+34JK4: Three of a Kind
+353Q3: Three of a Kind
+35755: Three of a Kind
+35TTT: Three of a Kind
+366JA: Three of a Kind
+37J55: Three of a Kind
+37A33: Three of a Kind
+38J8T: Three of a Kind
+3887J: Three of a Kind
+39998: Three of a Kind
+39QQQ: Three of a Kind
+3T334: Three of a Kind
+3Q2QQ: Three of a Kind
+3QQJK: Three of a Kind
+3QQ5Q: Three of a Kind
+3KJK4: Three of a Kind
+4J5A5: Three of a Kind
+4JKK6: Three of a Kind
+42J2A: Three of a Kind
+43844: Three of a Kind
+43QQQ: Three of a Kind
+44J3Q: Three of a Kind
+443Q4: Three of a Kind
+4446A: Three of a Kind
+44493: Three of a Kind
+445JA: Three of a Kind
+44564: Three of a Kind
+446J9: Three of a Kind
+44743: Three of a Kind
+44784: Three of a Kind
+447K4: Three of a Kind
+453JJ: Three of a Kind
+45447: Three of a Kind
+46474: Three of a Kind
+4733J: Three of a Kind
+47AAJ: Three of a Kind
+49447: Three of a Kind
+49A4J: Three of a Kind
+4TKKK: Three of a Kind
+4QQTQ: Three of a Kind
+4ATTT: Three of a Kind
+5JK52: Three of a Kind
+5255Q: Three of a Kind
+52TJJ: Three of a Kind
+53J99: Three of a Kind
+53JA3: Three of a Kind
+54J43: Three of a Kind
+552T5: Three of a Kind
+55574: Three of a Kind
+558J2: Three of a Kind
+55852: Three of a Kind
+55Q56: Three of a Kind
+576J6: Three of a Kind
+58A88: Three of a Kind
+5Q355: Three of a Kind
+5A557: Three of a Kind
+6JJT8: Three of a Kind
+6J3KJ: Three of a Kind
+6J6T7: Three of a Kind
+6J9A6: Three of a Kind
+62444: Three of a Kind
+62555: Three of a Kind
+6366Q: Three of a Kind
+644JK: Three of a Kind
+649JJ: Three of a Kind
+65663: Three of a Kind
+66TQ6: Three of a Kind
+66Q86: Three of a Kind
+67TTT: Three of a Kind
+6TKJT: Three of a Kind
+6QJQ9: Three of a Kind
+6KAKK: Three of a Kind
+6AKAA: Three of a Kind
+6AAAT: Three of a Kind
+7JJA2: Three of a Kind
+7J3J4: Three of a Kind
+7J784: Three of a Kind
+7JTQQ: Three of a Kind
+72333: Three of a Kind
+73877: Three of a Kind
+74J55: Three of a Kind
+75525: Three of a Kind
+76778: Three of a Kind
+76Q66: Three of a Kind
+76KKJ: Three of a Kind
+77237: Three of a Kind
+77479: Three of a Kind
+77637: Three of a Kind
+776T7: Three of a Kind
+7779K: Three of a Kind
+79A77: Three of a Kind
+7TTKT: Three of a Kind
+7Q737: Three of a Kind
+7Q767: Three of a Kind
+7KJ73: Three of a Kind
+7K775: Three of a Kind
+8J5Q5: Three of a Kind
+8J8KT: Three of a Kind
+8J979: Three of a Kind
+8J9KJ: Three of a Kind
+8JK83: Three of a Kind
+836J6: Three of a Kind
+84KJ4: Three of a Kind
+85388: Three of a Kind
+855A5: Three of a Kind
+85K55: Three of a Kind
+866J2: Three of a Kind
+86838: Three of a Kind
+86889: Three of a Kind
+88827: Three of a Kind
+88846: Three of a Kind
+88QJT: Three of a Kind
+88AJQ: Three of a Kind
+89J86: Three of a Kind
+8T999: Three of a Kind
+8A2AA: Three of a Kind
+8A6J6: Three of a Kind
+9J488: Three of a Kind
+9J927: Three of a Kind
+9255J: Three of a Kind
+92995: Three of a Kind
+92T22: Three of a Kind
+93Q9J: Three of a Kind
+93K33: Three of a Kind
+9444T: Three of a Kind
+94939: Three of a Kind
+97QQQ: Three of a Kind
+988A8: Three of a Kind
+9943J: Three of a Kind
+995Q9: Three of a Kind
+997JQ: Three of a Kind
+99895: Three of a Kind
+99987: Three of a Kind
+99TJ4: Three of a Kind
+9T949: Three of a Kind
+9TT3T: Three of a Kind
+9KJK4: Three of a Kind
+9A899: Three of a Kind
+TJ229: Three of a Kind
+TJT79: Three of a Kind
+T3666: Three of a Kind
+T3TTQ: Three of a Kind
+T55K5: Three of a Kind
+T5T6T: Three of a Kind
+T62J2: Three of a Kind
+T6TJA: Three of a Kind
+T6QJQ: Three of a Kind
+T6A6J: Three of a Kind
+T727J: Three of a Kind
+T76JJ: Three of a Kind
+T7797: Three of a Kind
+T7TT9: Three of a Kind
+T8TT6: Three of a Kind
+TT2T5: Three of a Kind
+TT47T: Three of a Kind
+TT68J: Three of a Kind
+TT7T3: Three of a Kind
+TT7T8: Three of a Kind
+TT8TQ: Three of a Kind
+TTQ9J: Three of a Kind
+TTA8T: Three of a Kind
+TAJ55: Three of a Kind
+TAJT7: Three of a Kind
+TAT7T: Three of a Kind
+QJ3Q2: Three of a Kind
+QJ4JK: Three of a Kind
+QJ4TQ: Three of a Kind
+QJQK5: Three of a Kind
+QJAQ5: Three of a Kind
+Q2KJQ: Three of a Kind
+Q447J: Three of a Kind
+Q4555: Three of a Kind
+Q566J: Three of a Kind
+Q5Q8Q: Three of a Kind
+Q66J2: Three of a Kind
+Q8AJQ: Three of a Kind
+QTJQ3: Three of a Kind
+QQQ76: Three of a Kind
+QQQK2: Three of a Kind
+QQA8Q: Three of a Kind
+QQAKQ: Three of a Kind
+QA2QQ: Three of a Kind
+QA888: Three of a Kind
+QAA4A: Three of a Kind
+K2555: Three of a Kind
+K2722: Three of a Kind
+K2KK6: Three of a Kind
+K4999: Three of a Kind
+K5355: Three of a Kind
+K5K9K: Three of a Kind
+K6KJ9: Three of a Kind
+K7555: Three of a Kind
+K7KKQ: Three of a Kind
+KTTTA: Three of a Kind
+KQ3JK: Three of a Kind
+KQ9QQ: Three of a Kind
+KKJ28: Three of a Kind
+KK4K6: Three of a Kind
+KKTJA: Three of a Kind
+KKTK8: Three of a Kind
+KKTKA: Three of a Kind
+KKK24: Three of a Kind
+KKK7A: Three of a Kind
+KAKK3: Three of a Kind
+AJ4KK: Three of a Kind
+A222K: Three of a Kind
+A2A5A: Three of a Kind
+A35AA: Three of a Kind
+A4494: Three of a Kind
+A699J: Three of a Kind
+A6AQA: Three of a Kind
+A7222: Three of a Kind
+A94JA: Three of a Kind
+AT777: Three of a Kind
+ATAJ5: Three of a Kind
+AQJQK: Three of a Kind
+AA5A4: Three of a Kind
+AA72A: Three of a Kind
+AAKJT: Three of a Kind
+AAK7A: Three of a Kind
+AAATQ: Three of a Kind
+J4477: Full House
+J4TT4: Full House
+J6556: Full House
+J7755: Full House
+J8855: Full House
+J8866: Full House
+JA33A: Full House
+22244: Full House
+22323: Full House
+2233J: Full House
+22444: Full House
+22552: Full House
+22777: Full House
+22828: Full House
+22K2K: Full House
+23233: Full House
+25552: Full House
+33366: Full House
+33388: Full House
+33553: Full House
+33K3K: Full House
+35J53: Full House
+35355: Full House
+36663: Full House
+37377: Full House
+3939J: Full House
+3T3TT: Full House
+3Q3QQ: Full House
+3AA3A: Full House
+4J334: Full House
+44545: Full House
+44555: Full House
+46644: Full House
+48J48: Full House
+48484: Full House
+48488: Full House
+4T44T: Full House
+4KK44: Full House
+4KK4K: Full House
+4A4A4: Full House
+4AA4J: Full House
+5JAA5: Full House
+58588: Full House
+5K55K: Full House
+6J622: Full House
+66622: Full House
+66776: Full House
+6699J: Full House
+66AAJ: Full House
+68686: Full House
+7J667: Full House
+75755: Full House
+77JQQ: Full House
+77755: Full House
+77799: Full House
+79979: Full House
+7K7K7: Full House
+82828: Full House
+85855: Full House
+86868: Full House
+87J87: Full House
+88J99: Full House
+88787: Full House
+88998: Full House
+88QQ8: Full House
+88K8K: Full House
+93399: Full House
+96696: Full House
+98899: Full House
+99494: Full House
+99669: Full House
+99QQJ: Full House
+9T9JT: Full House
+9T99T: Full House
+9TT9T: Full House
+9Q9Q9: Full House
+9AAA9: Full House
+T2T22: Full House
+T55TT: Full House
+T7TJ7: Full House
+T7T7T: Full House
+T8J8T: Full House
+T888T: Full House
+T88TT: Full House
+TT22T: Full House
+TT666: Full House
+TT777: Full House
+TTT44: Full House
+TTKTK: Full House
+Q555Q: Full House
+Q66QQ: Full House
+Q77QQ: Full House
+Q8QQ8: Full House
+Q9QQ9: Full House
+QTTQQ: Full House
+QQJ88: Full House
+QQ444: Full House
+QQ4Q4: Full House
+QQ55J: Full House
+QKQKQ: Full House
+QAJQA: Full House
+K5K5K: Full House
+K6K6K: Full House
+K99JK: Full House
+KKJTT: Full House
+KK22K: Full House
+KK3K3: Full House
+KK77K: Full House
+KK8K8: Full House
+KKTKT: Full House
+KKKAA: Full House
+AJ99A: Full House
+AJA88: Full House
+A5AA5: Full House
+A777A: Full House
+ATATA: Full House
+AQAQQ: Full House
+AKAKA: Full House
+AA666: Full House
+AA77A: Full House
+AA8A8: Full House
+AAQQA: Full House
+AAKKJ: Full House
+JJ553: Four of a Kind
+J2229: Four of a Kind
+J33J6: Four of a Kind
+J3999: Four of a Kind
+J4222: Four of a Kind
+J4449: Four of a Kind
+J4888: Four of a Kind
+J5553: Four of a Kind
+J555Q: Four of a Kind
+J5TTJ: Four of a Kind
+J6TTT: Four of a Kind
+J7747: Four of a Kind
+J9J39: Four of a Kind
+J99T9: Four of a Kind
+J99A9: Four of a Kind
+JQQ5Q: Four of a Kind
+JQQ9Q: Four of a Kind
+JQKQQ: Four of a Kind
+JA222: Four of a Kind
+JATTT: Four of a Kind
+JAAQA: Four of a Kind
+2JK22: Four of a Kind
+2222K: Four of a Kind
+22282: Four of a Kind
+222A2: Four of a Kind
+2282J: Four of a Kind
+22922: Four of a Kind
+23222: Four of a Kind
+252J2: Four of a Kind
+28J88: Four of a Kind
+2T222: Four of a Kind
+3JJAA: Four of a Kind
+3J633: Four of a Kind
+3J733: Four of a Kind
+33J43: Four of a Kind
+333J5: Four of a Kind
+33332: Four of a Kind
+3339J: Four of a Kind
+33393: Four of a Kind
+33Q33: Four of a Kind
+33K33: Four of a Kind
+33A33: Four of a Kind
+35333: Four of a Kind
+38888: Four of a Kind
+3KKKJ: Four of a Kind
+3KKKK: Four of a Kind
+4J22J: Four of a Kind
+4J445: Four of a Kind
+44424: Four of a Kind
+4444K: Four of a Kind
+4444A: Four of a Kind
+44484: Four of a Kind
+44744: Four of a Kind
+44944: Four of a Kind
+4999J: Four of a Kind
+5JJ22: Four of a Kind
+5JJT5: Four of a Kind
+5J75J: Four of a Kind
+5JK5J: Four of a Kind
+5255J: Four of a Kind
+52555: Four of a Kind
+53555: Four of a Kind
+55JAJ: Four of a Kind
+5555K: Four of a Kind
+55585: Four of a Kind
+555A5: Four of a Kind
+55T55: Four of a Kind
+58J55: Four of a Kind
+588J8: Four of a Kind
+6J656: Four of a Kind
+6J667: Four of a Kind
+6J66A: Four of a Kind
+6466J: Four of a Kind
+663J6: Four of a Kind
+66646: Four of a Kind
+66667: Four of a Kind
+6666A: Four of a Kind
+66696: Four of a Kind
+666TJ: Four of a Kind
+666T6: Four of a Kind
+66K66: Four of a Kind
+68888: Four of a Kind
+6Q66J: Four of a Kind
+6AAAA: Four of a Kind
+7J77A: Four of a Kind
+77577: Four of a Kind
+776J7: Four of a Kind
+77767: Four of a Kind
+77772: Four of a Kind
+77773: Four of a Kind
+7778J: Four of a Kind
+77977: Four of a Kind
+77T7J: Four of a Kind
+7Q777: Four of a Kind
+7KKJK: Four of a Kind
+8J88Q: Four of a Kind
+8J8A8: Four of a Kind
+88J3J: Four of a Kind
+88J86: Four of a Kind
+88828: Four of a Kind
+88848: Four of a Kind
+88A88: Four of a Kind
+8999J: Four of a Kind
+8TJ88: Four of a Kind
+8TTTT: Four of a Kind
+8KJKK: Four of a Kind
+9JKKJ: Four of a Kind
+92J9J: Four of a Kind
+95555: Four of a Kind
+9699J: Four of a Kind
+99929: Four of a Kind
+99969: Four of a Kind
+99979: Four of a Kind
+99998: Four of a Kind
+99T99: Four of a Kind
+9KKKK: Four of a Kind
+TJQQQ: Four of a Kind
+T333J: Four of a Kind
+T8JTT: Four of a Kind
+TTJ5T: Four of a Kind
+TTJ7T: Four of a Kind
+TT3TT: Four of a Kind
+TTTJ3: Four of a Kind
+TTT2T: Four of a Kind
+TTT5T: Four of a Kind
+TTTT4: Four of a Kind
+TTKTT: Four of a Kind
+TTATT: Four of a Kind
+TQTTT: Four of a Kind
+Q4J4J: Four of a Kind
+QQJQ7: Four of a Kind
+QQ9QQ: Four of a Kind
+QQQ2Q: Four of a Kind
+QQQ4Q: Four of a Kind
+QQQ6Q: Four of a Kind
+QQQQ5: Four of a Kind
+QAJQQ: Four of a Kind
+KJKK2: Four of a Kind
+K55J5: Four of a Kind
+K7KKK: Four of a Kind
+K8KKK: Four of a Kind
+KQKKK: Four of a Kind
+KKJK9: Four of a Kind
+KK2KK: Four of a Kind
+KK6KK: Four of a Kind
+KKKTK: Four of a Kind
+AJA6A: Four of a Kind
+AJAAT: Four of a Kind
+A5AAA: Four of a Kind
+A7777: Four of a Kind
+ATAAA: Four of a Kind
+AAJ4A: Four of a Kind
+AAQAA: Four of a Kind
+AAA7A: Four of a Kind
+AAA9J: Four of a Kind
+AAAA2: Four of a Kind
+AAAA8: Four of a Kind
+AAAAK: Four of a Kind
+JJJJJ: Five of a Kind
+JJJJ8: Five of a Kind
+JJ333: Five of a Kind
+JJ444: Five of a Kind
+J77J7: Five of a Kind
+J8JJ8: Five of a Kind
+JTJTT: Five of a Kind
+JKKJK: Five of a Kind
+JAAJA: Five of a Kind
+JAAAA: Five of a Kind
+22J2J: Five of a Kind
+22J22: Five of a Kind
+3333J: Five of a Kind
+444J4: Five of a Kind
+5J5J5: Five of a Kind
+5555J: Five of a Kind
+6J6J6: Five of a Kind
+6666J: Five of a Kind
+7J777: Five of a Kind
+88JJ8: Five of a Kind
+88J88: Five of a Kind
+99J9J: Five of a Kind
+9999J: Five of a Kind
+TJJTJ: Five of a Kind
+TTJTT: Five of a Kind
+QQJJQ: Five of a Kind
+QQQQJ: Five of a Kind
+KJKKK: Five of a Kind
