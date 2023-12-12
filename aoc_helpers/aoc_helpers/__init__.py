@@ -1,48 +1,22 @@
-import requests
-from bs4 import BeautifulSoup
+import aocd
+import datetime
+import dotenv
+dotenv.load_dotenv()
 
-def load_data(file):
-    with open(file) as f:
-        inputs = f.readlines()
-    inputs = [x.strip('\n') for x in inputs] 
-
-    return inputs
+today = datetime.datetime.now()
 
 def export_list(list, file):
     with open(file, 'w') as f:
         for item in list:
             f.write("%s\n" % item)
 
-def get_challenge_input(year, day, cookie):
-    headers = {
-        'cookie': cookie
-    }
+def get_inputs(year, day, splitLines):
+    actual = aocd.get_data(day=day, year=year)
 
-    resp= requests.get(
-        f'https://adventofcode.com/{year}/day/{day}/input',
-        headers=headers,
-        verify=False
-    )
+    if splitLines:
+        actual = actual.split('\n')
 
-    inputs = resp.text.split('\n')
+    return actual
 
-    return inputs
-
-def get_challenge_example(year, day, cookie):
-    headers = {
-        'cookie': cookie
-    }
-
-    resp= requests.get(
-        f'https://adventofcode.com/{year}/day/{day}',
-        headers=headers,
-        verify=False
-    )
-    soup = BeautifulSoup(resp.text, 'html.parser')
-
-    input = soup.pre.code.text.split('\n')
-
-    if input[-1:][0] == '':
-        input = input[:-1]
-
-    return input
+def submit(ans, year = today.year, day = today.day, part = 'a'):
+    aocd.submit(ans, part=part, year=year, day=day)

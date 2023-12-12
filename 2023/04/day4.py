@@ -1,7 +1,9 @@
 import aoc_helpers
 
 example = aoc_helpers.load_data('example.txt')
-actual = aoc_helpers.load_data('actual.txt')
+year = 2023
+day = 4
+actual = aoc_helpers.get_inputs(year,day, True)
 
 def get_point_value(line):
     line =  line.split(': ')[1]

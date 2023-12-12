@@ -19,10 +19,10 @@ setup(name='aoc_helpers',
     install_requires=[
         # 'pandas',
         # 'numpy',
-        # 'datetime',
+        'datetime',
         # 'networkx',
-        'requests',
-        'bs4',
+        'aocd',
+        'dotenv',
         # 'urllib3',
         # 'fake-useragent'
     ],

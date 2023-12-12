@@ -2,7 +2,9 @@ import aoc_helpers
 import re
 
 example = aoc_helpers.load_data('example.txt')
-actual = aoc_helpers.load_data('actual.txt')
+year = 2023
+day = 2
+actual = aoc_helpers.get_inputs(year,day, True)
 
 limits = {
     'red': 12,

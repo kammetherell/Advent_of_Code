@@ -9,10 +9,9 @@ example = [
     'Time:      7  15   30',
     'Distance:  9  40  200']
 
-actual = [
-    'Time:        41     77     70     96',
-    'Distance:   249   1362   1127   1011'
-]
+year = 2023
+day = 6
+actual = aoc_helpers.get_inputs(year,day, True)
 
 def process_input(input):
     times = re.findall(r"(\d+)", input[0])

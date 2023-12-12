@@ -4,7 +4,9 @@ import numpy
 import pandas as pd
 
 example = aoc_helpers.load_data('example.txt')
-actual = aoc_helpers.load_data('actual.txt')
+year = 2023
+day = 5
+actual = aoc_helpers.get_inputs(year,day, True)
 
 #PART1
 def get_locns(seeds, input):
