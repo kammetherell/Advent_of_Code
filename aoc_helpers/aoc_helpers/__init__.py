@@ -1,6 +1,7 @@
 import aocd
 import datetime
 import dotenv
+from . import helper
 dotenv.load_dotenv()
 
 today = datetime.datetime.now()
@@ -10,7 +11,7 @@ def export_list(list, file):
         for item in list:
             f.write("%s\n" % item)
 
-def get_inputs(year, day, splitLines):
+def get_inputs(year, day, splitLines=False):
     actual = aocd.get_data(day=day, year=year)
 
     if splitLines:
