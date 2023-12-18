@@ -10,3 +10,18 @@ def list_of_lists(input):
         input[idx] = inp.splitlines()
 
     return input
+
+def list_of_chars(input):
+    input = input.splitlines()
+    for idx, inp in enumerate(input):
+        input[idx] = [char for char in inp]
+
+    return input
+
+def coords_2d(input):
+    coords = []
+    for row, line in enumerate(input):
+        for col, char in enumerate(line):
+            coords.append(char, row, col)
+    
+    return coords
