@@ -18,10 +18,9 @@ def list_of_chars(input):
 
     return input
 
-def coords_2d(input):
-    coords = []
+def coords_dict(input):
+    coords = {}
     for row, line in enumerate(input):
         for col, char in enumerate(line):
-            coords.append(char, row, col)
-    
+            coords[(row, col)] = char
     return coords
