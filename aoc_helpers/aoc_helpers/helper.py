@@ -20,7 +20,11 @@ def list_of_chars(input):
 
 def coords_dict(input):
     coords = {}
+    max_row = 0
+    max_col = 0
     for row, line in enumerate(input):
+        max_row = max(max_row, row)
         for col, char in enumerate(line):
+            max_col = max(max_col, col)
             coords[(row, col)] = char
-    return coords
+    return coords, (max_row, max_col)
